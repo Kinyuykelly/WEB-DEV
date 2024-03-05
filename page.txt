@@ -1,0 +1,11 @@
+<!Doctype html>
+<head><title>MY page </title></head>
+<body>
+<p>this is my page</p>
+<b>this is my page</b>
+<q>this is my page</q>
+<address>this is my page</address>
+<blockquotes>this is my page</blockquotes>
+<abbr title="Hyperyext transfer protocol">this is my page</abbr>
+</body>
+</html>
