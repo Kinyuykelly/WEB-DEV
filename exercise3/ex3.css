@@ -28,6 +28,11 @@ input[type="text"]{
 h1,h2{
     color:white;
     font-weight: 90;
+   
+}
+h2{
+    margin-top:3px;
+    margin-bottom:3px;
 }
 .image{
     position: absolute;
